@@ -8,8 +8,20 @@ const Layout = ({ children }) => {
         <div className='container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center'>
           <Link href='/'>
             <a className='flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0'>
-              <svg height='50' width='50'>
-                <circle cx='50' cy='50' r='40' fill='blue' />
+              <svg
+                width='40'
+                height='40'
+                viewBox='0 0 102 102'
+                fill='none'
+                xmlns='http://www.w3.org/2000/svg'>
+                <path
+                  d='M51.0022 102H0C0 74.0229 23.0207 51.0022 51.0022 51.0022C78.9838 51.0022 102 74.0229 102 102H51.0022Z'
+                  fill='#4D4DFF'
+                />
+                <path
+                  d='M51.0022 0H102C102 27.9771 78.9793 51.0022 51.0022 51.0022C23.0251 51.0022 0 27.9771 0 0H51.0022Z'
+                  fill='#1AEABE'
+                />
               </svg>
               <span className='ml-3 text-xl'>Unlinked</span>
             </a>
