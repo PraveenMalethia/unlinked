@@ -5,8 +5,8 @@ _Solution to problem #2_
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Pitch](#description)
-- [Product Video](#product-or-pitch-video)
+- [Pitch](#pitch)
+- [Product Deno](#product-demo)
 - [Prototype](#prototype-and-design)
 - [Teamwork and Timeline](#teamwork-and-timeline)
 - [Challenges](#challenges-faced)
