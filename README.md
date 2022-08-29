@@ -27,7 +27,7 @@ So what problem unlinked solves is to make hiring process **fun and easier** on 
 
 ---
 
-## Product or Pitch Video
+## Product Demo
 
 [Youtube Link](https://youtu.be/hIwforbaGcM)
 
