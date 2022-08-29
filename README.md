@@ -5,7 +5,7 @@ _Solution to problem #2_
 ## Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Description](#description)
+- [Pitch](#description)
 - [Product Video](#product-or-pitch-video)
 - [Prototype](#prototype-and-design)
 - [Teamwork and Timeline](#teamwork-and-timeline)
@@ -14,9 +14,7 @@ _Solution to problem #2_
 
 ---
 
-## Description :
-
-# Pitch 
+## Pitch 
 
  - Generally, Looking for cadidates or developers is a very boring process it is no fun at all.</br></br>
 So what problem unlinked solves is to make hiring process **fun and easier** on a **clutter free interface** with the **important information** that a hiring manager actually need to get the candidate **worth for an interview** without wasting so much time.<br><br>
