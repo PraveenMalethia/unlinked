@@ -16,14 +16,8 @@ _Solution to problem #2_
 
 ## Pitch 
 
- - Generally, Looking for cadidates or developers is a very boring process it is no fun at all.</br></br>
+ - Generally, Looking for developers is a very boring process it is no fun at all.</br></br>
 So what problem unlinked solves is to make hiring process **fun and easier** on a **clutter free interface** with the **important information** that a hiring manager actually need to get the candidate **worth for an interview** without wasting so much time.<br><br>
-
-- Firstly it collects all the information from hiring manager.<br>
-
-- Then it provides a clear and clutter free interface to filter out the the candidates by pinning them or swipe to next candidate which can be worth for the interview.
-
-- Pinned Profiles will be saved and you can come later and see list of candidates which you preffered for interview.
 
 ---
 
